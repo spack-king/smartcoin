@@ -1,2 +1,16 @@
 # smartcoin
-SmartCoin is an innovative crypto mining app designed to make digital currency mining accessible and efficient for everyone. With its user-friendly interface, SmartCoin allows users to easily set up and manage their mining operations directly from their mobile devices. The app optimizes mining performance, tracks earnings in real-time, and provides insights into market trends, helping users maximize their returns. Whether you’re a seasoned miner or just starting out, SmartCoin empowers you to dive into the world of cryptocurrency with confidence and convenience.
+
+Smart coin earning
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
